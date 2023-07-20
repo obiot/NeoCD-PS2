@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Temp files
+.DS_Store
+Thumbs.db
+Desktop.ini
