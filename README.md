@@ -1,6 +1,7 @@
 # NeoCD/PS2
 ![logo](https://github.com/obiot/NeoCD-PS2/assets/4033090/a77f76b4-cf20-4414-bf18-b2e50426fb89)
- an open source NeoGeo CD emulator running for the Sony Playstation2™
+
+an open source NeoGeo CD emulator running for the Sony Playstation2™
 
 # Introduction
 NeoCD/PS2 is a open source NeoGeo CD emulator running on the Sony Playstation 2™. It is a port of NeoCD/SDL, the excellent NeoGeo CD emulator by [Foster](http://pacifi3d.retrogames.com/neocdsdl/). all SDL portions have been removed and replaced by PS2 "native" libraries (using PS2SDK).
