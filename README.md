@@ -24,7 +24,7 @@ NeoCD/PS2 is not responsible of any possible damage to your PS2, use it at your 
 - PAL/NTSC auto-detection & Selector
 - Loads games directly from the cdrom
 - 2 controllers support
-- NGCD memory card support (use 45K on the MC)
+- NGCD memory card support (use 45Kb on the MC)
 - Stereo sound emulation
 - CDDA support
 - Ingame menu
@@ -34,16 +34,17 @@ NeoCD/PS2 is not responsible of any possible damage to your PS2, use it at your 
 
 ## General Requirements
 
-- Before running the emulator be sure that the "host/cd" contains the following tree :
-|-- neocd folder (or CD root)
-|- neocd.bin or bios.zip (ngcd bios, not provided)
-|- neocd.elf
-|- neocdps2.txt
-|- system.cnf (if burned on a cd)
-|- install.pbt \
-|- instlst.pbt \_ C.C. Boot Manager Install Scripts
-|- remove.pbt / Needed to install neocd on the BM
-|- run.pbt /
+Before running the emulator be sure that the "host/cd" contains the following files :
+
+* |-- neocd folder (or CD root)
+* |- neocd.bin or bios.zip (ngcd bios, not provided)
+* |- neocd.elf
+* |- neocdps2.txt
+* |- system.cnf (if burned on a cd)
+* |- install.pbt \
+* |- instlst.pbt \_ C.C. Boot Manager Install Scripts
+* |- remove.pbt / Needed to install neocd on the BM
+* |- run.pbt /
 
 Before you ask, if ANY file is MISSING : IT WON'T WORK !
 
